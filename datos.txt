@@ -1,0 +1,2 @@
+{"nombre":"juan","edad":20,"correo":"juan@gmail.com"}
+{"nombre":"juan","edad":20,"correo":"juan@gmail.com"}
